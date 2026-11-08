@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cobodo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kanagu.info
+  * I am cobodo (https://keybase.io/cobodo) on keybase.
+  * I have a public key ASB4qfMJHXuH1YMmFSNSxyD8CbwaYFVlkWjzpPVr7dXtiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c269b1ec0455f662e13f0a8a8249c062933a5c86448461354ad0e3a687b04a060a",
+      "host": "keybase.io",
+      "kid": "012078a9f3091d7b87d58326152352c720fc09bc1a6055659168f3a4f56bedd5ed880a",
+      "uid": "873197cd63e8220cefdcf62d6df4a919",
+      "username": "cobodo"
+    },
+    "merkle_root": {
+      "ctime": 1537286758,
+      "hash": "9cb17f200c98e574cb2451c77f33d288eb62fe73f0d1c20aa3f60e6d43f49af4b5448d0b86042aa1b20bba0fe770eec3111b1c0fc3587a9fe5628062a648294e",
+      "hash_meta": "47acbe4f3c60896ac691f581b9f3d1e4baf6be00b6d3147cdfbb9a3dead197fa",
+      "seqno": 3626417
+    },
+    "service": {
+      "entropy": "nJilrH9Q2kBXSUfX9TzJ5N3t",
+      "hostname": "kanagu.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.0"
+  },
+  "ctime": 1537286772,
+  "expire_in": 504576000,
+  "prev": "b4efecaca64f2a54b0a1c7bdf36e61b26ab8000b3e19bde5ceb75894e9417047",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeKnzCR17h9WDJhUjUscg/Am8GmBVZZFo86T1a+3V7YgKp3BheWxvYWTESpcCGsQgtO/srKZPKlSwoce9825hsmq4AAs+Gb3lzrdYlOlBcEfEIF/vcfVZxrd48UWM5AhhVNBZBy3o5LsNrIw3Rcq1BLoLAgHCo3NpZ8RAbwRMwAnstwd8mIbjhP59xFfBve16fT9ldsnGa+x5XvmGDT76bt0WiI5vlwdMFeICXyq6nDRGlxO2JIXfjkuoAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFitY6MvAPWUYmXpyM8IOoBhUjr3cWyIb1klTO81rqTFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cobodo
+
+==================================================================
